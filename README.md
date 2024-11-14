@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I'm a senior Computer Science student specializing in robotics and AI!
 <!--
 **FelipeJared/FelipeJared** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
